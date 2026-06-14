@@ -1,0 +1,10 @@
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.GeneratedMSBuildEditorConfig.editorconfig
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.AssemblyInfoInputs.cache
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.AssemblyInfo.cs
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.csproj.CoreCompileInputs.cache
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.csproj.AssemblyReference.cache
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/bin/Debug/net6.0/projectilemultipier.deps.json
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/bin/Debug/net6.0/projectilemultipier.dll
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/projectilemultipier.dll
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/refint/projectilemultipier.dll
+/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/obj/Debug/net6.0/ref/projectilemultipier.dll

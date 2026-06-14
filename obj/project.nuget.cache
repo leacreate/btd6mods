@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRF/tkPl/f+J0+kDHcFS1+fqokTaF9WKFO49jPj8BXtKlLdl+cpURKVAYb4+YGV/XRPyYXgsEzCEEGHrMiiUhg==",
+  "success": true,
+  "projectFilePath": "/home/pukegp/.wine-bloons/drive_c/users/pukegp/Documents/BTD6 Mod Sources/projectilemultipier/projectilemultipier.csproj",
+  "expectedPackageFiles": [
+    "/home/pukegp/.nuget/packages/btd6modhelper.sourcegenerators/1.0.1/btd6modhelper.sourcegenerators.1.0.1.nupkg.sha512",
+    "/home/pukegp/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/pukegp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
